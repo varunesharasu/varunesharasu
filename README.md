@@ -182,7 +182,7 @@ const varunesh = {
 ## 🎨 Contribution Heatmap
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/409ba5/varunesharasu" alt="Contribution Graph" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Animated Contribution Graph" width="100%"/>
 </div>
 
 ---
@@ -205,23 +205,3 @@ const varunesh = {
 
 </div>
 ```
-
-**Key changes made:**
-
-1. **Removed problematic sections:**
-   - Snake animation (requires GitHub Actions setup)
-   - Spotify integration (requires API setup and authentication)
-
-2. **Added working alternatives:**
-   - Contribution heatmap using `ghchart.rshah.org`
-   - Weekly development breakdown (WakaTime integration)
-   - Featured projects section
-   - Better header and footer with wave animations
-
-3. **Enhanced visual elements:**
-   - Added wave header and footer
-   - Better organized sections
-   - All images and stats should now load properly
-
-The README will now display correctly without any broken images or missing content!
-
