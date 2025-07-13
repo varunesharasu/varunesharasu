@@ -160,13 +160,6 @@ const varunesh = {
 
 ---
 
-## 🎯 Weekly Development Breakdown
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=varunesharasu&theme=tokyonight" />
-</div>
-
----
 
 
 
