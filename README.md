@@ -168,14 +168,7 @@ const varunesh = {
 
 ---
 
-## 🌟 Featured Projects
 
-<div align="center">
-
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=varunesharasu&repo=portfolio&theme=tokyonight)](https://github.com/varunesharasu/portfolio)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=varunesharasu&repo=project2&theme=tokyonight)](https://github.com/varunesharasu/project2)
-
-</div>
 
 ---
 
