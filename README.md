@@ -64,56 +64,226 @@ const varunesh = {
 
 ---
 
-## 💻 Tech Arsenal
+## �️ Tech Arsenal
 
 <div align="center">
+  
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
 
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+</div>
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+### <div align="center">🎨 **Frontend Development** 🎨</div>
 
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+<div align="center">
+  
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+<br><strong>React</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nextjs" width="65" height="65" alt="Next.js" />
+<br><strong>Next.js</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=js" width="65" height="65" alt="JavaScript" />
+<br><strong>JavaScript</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" />
+<br><strong>HTML5</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS3" />
+<br><strong>CSS3</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="TailwindCSS" />
+<br><strong>Tailwind</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="Bootstrap" />
+<br><strong>Bootstrap</strong>
+</td>
+</tr>
+</table>
 
-### ☁️ Cloud & Deployment
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+</div>
 
-### 🎨 Design & Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+### <div align="center">⚙️ **Backend Development** ⚙️</div>
 
-### 📊 Data Science & ML
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+<div align="center">
+  
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js" />
+<br><strong>Node.js</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=express" width="65" height="65" alt="Express.js" />
+<br><strong>Express</strong>
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+<br><strong>Python</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=flask" width="65" height="65" alt="Flask" />
+<br><strong>Flask</strong>
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+<br><strong>Java</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=c" width="65" height="65" alt="C" />
+<br><strong>C</strong>
+</td>
+</tr>
+</table>
 
-### 🛠️ Development Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+</div>
+
+### <div align="center">🗄️ **Database Management** 🗄️</div>
+
+<div align="center">
+  
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
+<br><strong>MongoDB</strong>
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+<br><strong>MySQL</strong>
+</td>
+</tr>
+</table>
+
+</div>
+
+### <div align="center">☁️ **Cloud & Deployment** ☁️</div>
+
+<div align="center">
+  
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+<br><strong>AWS</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vercel" width="65" height="65" alt="Vercel" />
+<br><strong>Vercel</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=netlify" width="65" height="65" alt="Netlify" />
+<br><strong>Netlify</strong>
+</td>
+<td align="center" width="96">
+<img src="https://user-images.githubusercontent.com/25181517/188006082-2538b95c-6eb7-4f3e-a8df-aa3bb78a7d8b.png" width="65" height="65" alt="Render" />
+<br><strong>Render</strong>
+</td>
+</tr>
+</table>
+
+</div>
+
+### <div align="center">🎨 **Design & Creative Tools** 🎨</div>
+
+<div align="center">
+  
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=figma" width="65" height="65" alt="Figma" />
+<br><strong>Figma</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=photoshop" width="65" height="65" alt="Photoshop" />
+<br><strong>Photoshop</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=illustrator" width="65" height="65" alt="Illustrator" />
+<br><strong>Illustrator</strong>
+</td>
+<td align="center" width="96">
+<img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" width="65" height="65" alt="Canva" />
+<br><strong>Canva</strong>
+</td>
+</tr>
+</table>
+
+</div>
+
+### <div align="center">🧠 **Data Science & AI/ML** 🧠</div>
+
+<div align="center">
+  
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" width="65" height="65" alt="NumPy" />
+<br><strong>NumPy</strong>
+</td>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="65" height="65" alt="Pandas" />
+<br><strong>Pandas</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="65" height="65" alt="TensorFlow" />
+<br><strong>TensorFlow</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=pytorch" width="65" height="65" alt="PyTorch" />
+<br><strong>PyTorch</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=opencv" width="65" height="65" alt="OpenCV" />
+<br><strong>OpenCV</strong>
+</td>
+</tr>
+</table>
+
+</div>
+
+### <div align="center">🛠️ **Development Tools** 🛠️</div>
+
+<div align="center">
+  
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+<br><strong>GitHub</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
+<br><strong>Git</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VS Code" />
+<br><strong>VS Code</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=npm" width="65" height="65" alt="NPM" />
+<br><strong>NPM</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vite" width="65" height="65" alt="Vite" />
+<br><strong>Vite</strong>
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+  
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 </div>
 
