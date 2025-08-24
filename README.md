@@ -55,85 +55,10 @@ const varunesh = {
 
 <div align="center">
   
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
-
-</div>
-
-<div align="center">
-  
-### 💬 Ready to Connect & Collaborate? Let's Chat! 
-
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&width=500&lines=Drop+me+a+message+anytime!;Let's+build+something+amazing+together!;Coffee+chat%3F+I'm+always+up+for+it!;Open+to+exciting+opportunities!" alt="Connect Typing SVG" />
-</p>
-
-<table>
-<tr>
-<td align="center" width="25%" style="border: none;">
-<a href="https://www.linkedin.com/in/varunesht/" target="_blank">
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9b7269.gif" width="100" alt="LinkedIn"/>
-<br/><strong>LinkedIn</strong>
-<br/><sub>Professional Network</sub>
-</a>
-</td>
-<td align="center" width="25%" style="border: none;">
-<a href="mailto:tvarunesharasu@gmail.com" target="_blank">
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="100" alt="Gmail"/>
-<br/><strong>Gmail</strong>
-<br/><sub>Direct Contact</sub>
-</a>
-</td>
-<td align="center" width="25%" style="border: none;">
-<a href="https://www.instagram.com/_.varu_nesh._/" target="_blank">
-<img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100" alt="Instagram"/>
-<br/><strong>Instagram</strong>
-<br/><sub>Life & Adventures</sub>
-</a>
-</td>
-<td align="center" width="25%" style="border: none;">
-<a href="https://your-portfolio-url.com" target="_blank">
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100" alt="Portfolio"/>
-<br/><strong>Portfolio</strong>
-<br/><sub>My Work Showcase</sub>
-</a>
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=📧+tvarunesharasu@gmail.com;🔗+linkedin.com/in/varunesht;📱+Let's+create+something+extraordinary!)](mailto:tvarunesharasu@gmail.com)
-
-</div>
-
-<div align="center">
-  
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-</div>
-
-<div align="center">
-  
-### 🚀 Quick Connect Badges
-
-<p>
-<a href="https://www.linkedin.com/in/varunesht/" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn Badge"/>
-</a>
-<a href="mailto:tvarunesharasu@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail Badge"/>
-</a>
-<a href="https://www.instagram.com/_.varu_nesh._/" target="_blank">
-<img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram Badge"/>
-</a>
-<a href="https://your-portfolio-url.com" target="_blank">
-<img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Portfolio Badge"/>
-</a>
-</p>
-
-</div>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.varu_nesh._/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varunesht/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tvarunesharasu@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.com)
 
 </div>
 
