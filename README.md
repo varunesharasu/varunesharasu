@@ -94,7 +94,7 @@ const varunesh = {
 
 ---
 
-## �️ Tech Arsenal
+## 🛠️ Tech Arsenal
 
 <!-- <div align="center">
   
@@ -360,9 +360,6 @@ const varunesh = {
 
 ---
 
-
-
-
 ## 🎨 Contribution Heatmap
 
 <div align="center">
@@ -385,6 +382,9 @@ const varunesh = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
 
+<sub>💙 Made with love and lots of ☕ by Varunesh</sub>
+
+</div>
 <sub>💙 Made with love and lots of ☕ by Varunesh</sub>
 
 </div>
