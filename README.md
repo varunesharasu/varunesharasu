@@ -94,7 +94,7 @@ const varunesh = {
 
 ---
 
-## <div align="center">🛠️ Tech Arsenal</div>
+## �️ Tech Arsenal
 
 <!-- <div align="center">
   
