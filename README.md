@@ -327,9 +327,9 @@ const varunesh = {
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=varunesharasu&theme=tokyonight" alt="GitHub Streak" height="180"/>
-  <br/>
-  <a href="https://streak-stats.demolab.com/demo/?user=varunesharasu">View Streak Stats</a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=varunesharasu" alt="GitHub Streak" />
+  </a>
 </div>
 
 <div align="center">
