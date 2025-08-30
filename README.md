@@ -340,9 +340,7 @@ const varunesh = {
 
 ## 🏆 GitHub Achievements
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=varunesharasu&theme=tokyonight&no-bg=true&margin-w=4&column=7" width="100%" alt="GitHub Profile Trophy"/>
-</div>
+![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=varunesharasu&theme=tokyonight&no-bg=true&margin-w=4&column=7)
 
 ---
 
