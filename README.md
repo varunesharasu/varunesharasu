@@ -85,9 +85,24 @@ const varunesh = {
 
 <div align="center">
   
+<a href="https://www.instagram.com/_.varu_nesh._/">
+  <img src="https://cdn.brandfetch.io/id7vQwQyB1/theme/dark/logo.svg" width="28" height="28" alt="Instagram" />
+</a>
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.varu_nesh._/)
+
+<a href="https://www.linkedin.com/in/varunesht/">
+  <img src="https://cdn.brandfetch.io/id6yVQlyB1/theme/dark/logo.svg" width="28" height="28" alt="LinkedIn" />
+</a>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varunesht/)
+
+<a href="mailto:tvarunesharasu@gmail.com">
+  <img src="https://cdn.brandfetch.io/id6wVQlyB1/theme/dark/logo.svg" width="28" height="28" alt="Gmail" />
+</a>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tvarunesharasu@gmail.com)
+
+<a href="https://your-portfolio-url.com">
+  <img src="https://cdn.brandfetch.io/id8LeMTX5r/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1696085448760" width="28" height="28" alt="Portfolio" />
+</a>
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.com)
 
 </div>
