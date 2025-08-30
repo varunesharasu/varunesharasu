@@ -93,7 +93,7 @@ Instagram
 <a href="https://www.linkedin.com/in/varunesht/">
   <img src="https://cdn.brandfetch.io/idJFz6sAsl/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" width="28" height="28" alt="LinkedIn" />
 </a>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varunesht/)
+LinkedIn
 
 <a href="mailto:tvarunesharasu@gmail.com">
   <img src="https://cdn.brandfetch.io/id5o3EIREg/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1696475443284" width="28" height="28" alt="Gmail" />
