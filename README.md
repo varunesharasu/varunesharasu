@@ -103,7 +103,7 @@ Gmail
 <a href="https://your-portfolio-url.com">
   <img src="https://cdn.brandfetch.io/id8LeMTX5r/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1696085448760" width="28" height="28" alt="Portfolio" />
 </a>
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.com)
+[Portfolio]
 
 </div>
 
