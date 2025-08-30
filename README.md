@@ -91,7 +91,7 @@ const varunesh = {
 Instagram
 
 <a href="https://www.linkedin.com/in/varunesht/">
-  <img src="https://cdn.brandfetch.io/id6yVQlyB1/theme/dark/logo.svg" width="28" height="28" alt="LinkedIn" />
+  <img src="https://cdn.brandfetch.io/idJFz6sAsl/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" width="28" height="28" alt="LinkedIn" />
 </a>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varunesht/)
 
