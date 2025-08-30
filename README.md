@@ -96,9 +96,9 @@ Instagram
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varunesht/)
 
 <a href="mailto:tvarunesharasu@gmail.com">
-  <img src="https://cdn.brandfetch.io/id6wVQlyB1/theme/dark/logo.svg" width="28" height="28" alt="Gmail" />
+  <img src="https://cdn.brandfetch.io/id5o3EIREg/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1696475443284" width="28" height="28" alt="Gmail" />
 </a>
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tvarunesharasu@gmail.com)
+Gmail
 
 <a href="https://your-portfolio-url.com">
   <img src="https://cdn.brandfetch.io/id8LeMTX5r/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1696085448760" width="28" height="28" alt="Portfolio" />
