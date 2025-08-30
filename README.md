@@ -84,26 +84,43 @@ const varunesh = {
 ## 🌐 Let's Connect!
 
 <div align="center">
-  
-<a href="https://www.instagram.com/_.varu_nesh._/">
-  <img src="https://cdn.brandfetch.io/ido5G85nya/theme/light/id8qc6z_TX.svg?c=1dxbfHSJFAPEGdCLU4o5B" width="28" height="28" alt="Instagram" />
-</a>
-Instagram
 
-<a href="https://www.linkedin.com/in/varunesht/">
-  <img src="https://cdn.brandfetch.io/idJFz6sAsl/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" width="28" height="28" alt="LinkedIn" />
-</a>
-LinkedIn
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://www.instagram.com/_.varu_nesh._/" target="_blank">
+        <img src="https://cdn.brandfetch.io/ido5G85nya/theme/light/id8qc6z_TX.svg?c=1dxbfHSJFAPEGdCLU4o5B" width="48" height="48" alt="Instagram" style="transition: transform 0.2s;"/>
+      </a>
+      <br><strong>Instagram</strong>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://www.linkedin.com/in/varunesht/" target="_blank">
+        <img src="https://cdn.brandfetch.io/idJFz6sAsl/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" width="48" height="48" alt="LinkedIn" style="transition: transform 0.2s;"/>
+      </a>
+      <br><strong>LinkedIn</strong>
+    </td>
+    <td align="center" width="25%">
+      <a href="mailto:tvarunesharasu@gmail.com" target="_blank">
+        <img src="https://cdn.brandfetch.io/id5o3EIREg/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1696475443284" width="48" height="48" alt="Gmail" style="transition: transform 0.2s;"/>
+      </a>
+      <br><strong>Gmail</strong>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://your-portfolio-url.com" target="_blank">
+        <img src="https://cdn.brandfetch.io/id8LeMTX5r/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1696085448760" width="48" height="48" alt="Portfolio" style="transition: transform 0.2s;"/>
+      </a>
+      <br><strong>Portfolio</strong>
+    </td>
+  </tr>
+</table>
 
-<a href="mailto:tvarunesharasu@gmail.com">
-  <img src="https://cdn.brandfetch.io/id5o3EIREg/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1696475443284" width="28" height="28" alt="Gmail" />
-</a>
-Gmail
-
-<a href="https://your-portfolio-url.com">
-  <img src="https://cdn.brandfetch.io/id8LeMTX5r/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1696085448760" width="28" height="28" alt="Portfolio" />
-</a>
-[Portfolio]
+<!-- Simple hover effect for icons -->
+<style>
+  table a img:hover {
+    transform: scale(1.15) rotate(-8deg);
+    box-shadow: 0 4px 16px #00F7FF44;
+  }
+</style>
 
 </div>
 
