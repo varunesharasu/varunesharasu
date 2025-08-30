@@ -241,7 +241,7 @@ const varunesh = {
 <br><strong>Illustrator</strong>
 </td>
 <td align="center" width="96">
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Canva_Logo.svg" width="65" height="65" alt="Canva" />
+<img src="https://cdn.brandfetch.io/id9mVQlyB1/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" width="65" height="65" alt="Canva" />
 <br><strong>Canva</strong>
 </td>
 </tr>
