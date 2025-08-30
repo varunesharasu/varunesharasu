@@ -214,7 +214,7 @@ const varunesh = {
 <br><strong>Netlify</strong>
 </td>
 <td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/render/render-original.svg" width="65" height="65" alt="Render" />
+<img src="https://cdn.brandfetch.io/id8LeMTX5r/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1696085448760" width="65" height="65" alt="Render" />
 <br><strong>Render</strong>
 </td>
 </tr>
