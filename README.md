@@ -256,7 +256,7 @@ const varunesh = {
 <table>
 <tr>
 <td align="center" width="96">
-<img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" width="65" height="65" alt="NumPy" />
+<img src="https://numpy.org/images/logo.svg" width="65" height="65" alt="NumPy" />
 <br><strong>NumPy</strong>
 </td>
 <td align="center" width="96">
