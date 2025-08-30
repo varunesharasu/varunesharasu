@@ -114,13 +114,8 @@ const varunesh = {
   </tr>
 </table>
 
-<!-- Simple hover effect for icons -->
-<style>
-  table a img:hover {
-    transform: scale(1.15) rotate(-8deg);
-    box-shadow: 0 4px 16px #00F7FF44;
-  }
-</style>
+<!-- Simple hover effect for icons: On hover, icons scale up and rotate slightly with a blue shadow. 
+     (Note: GitHub Markdown does not support inline CSS. For custom styling, use an external site or README profile generator.) -->
 
 </div>
 
