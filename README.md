@@ -106,7 +106,7 @@ const varunesh = {
       <br><strong>Gmail</strong>
     </td>
     <td align="center" width="25%">
-      <a href="https://your-portfolio-url.com" target="_blank">
+      <a href="https://varunesh-portfolio.vercel.app/" target="_blank">
         <img src="https://cdn.brandfetch.io/id8LeMTX5r/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1696085448760" width="60" height="60" alt="Portfolio" />
       </a>
       <br><strong>Portfolio</strong>
