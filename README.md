@@ -89,25 +89,25 @@ const varunesh = {
   <tr>
     <td align="center" width="25%">
       <a href="https://www.instagram.com/_.varu_nesh._/" target="_blank">
-        <img src="https://cdn.brandfetch.io/ido5G85nya/theme/light/id8qc6z_TX.svg?c=1dxbfHSJFAPEGdCLU4o5B" width="48" height="48" alt="Instagram" style="transition: transform 0.2s;"/>
+        <img src="https://cdn.brandfetch.io/ido5G85nya/theme/light/id8qc6z_TX.svg?c=1dxbfHSJFAPEGdCLU4o5B" width="60" height="60" alt="Instagram" />
       </a>
       <br><strong>Instagram</strong>
     </td>
     <td align="center" width="25%">
       <a href="https://www.linkedin.com/in/varunesht/" target="_blank">
-        <img src="https://cdn.brandfetch.io/idJFz6sAsl/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" width="48" height="48" alt="LinkedIn" style="transition: transform 0.2s;"/>
+        <img src="https://cdn.brandfetch.io/idJFz6sAsl/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" width="60" height="60" alt="LinkedIn" />
       </a>
       <br><strong>LinkedIn</strong>
     </td>
     <td align="center" width="25%">
       <a href="mailto:tvarunesharasu@gmail.com" target="_blank">
-        <img src="https://cdn.brandfetch.io/id5o3EIREg/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1696475443284" width="48" height="48" alt="Gmail" style="transition: transform 0.2s;"/>
+        <img src="https://cdn.brandfetch.io/id5o3EIREg/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1696475443284" width="60" height="60" alt="Gmail" />
       </a>
       <br><strong>Gmail</strong>
     </td>
     <td align="center" width="25%">
       <a href="https://your-portfolio-url.com" target="_blank">
-        <img src="https://cdn.brandfetch.io/id8LeMTX5r/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1696085448760" width="48" height="48" alt="Portfolio" style="transition: transform 0.2s;"/>
+        <img src="https://cdn.brandfetch.io/id8LeMTX5r/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1696085448760" width="60" height="60" alt="Portfolio" />
       </a>
       <br><strong>Portfolio</strong>
     </td>
