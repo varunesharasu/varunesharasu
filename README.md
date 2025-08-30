@@ -86,7 +86,7 @@ const varunesh = {
 <div align="center">
   
 <a href="https://www.instagram.com/_.varu_nesh._/">
-  <img src="https://cdn.brandfetch.io/id7vQwQyB1/theme/dark/logo.svg" width="28" height="28" alt="Instagram" />
+  <img src="https://cdn.brandfetch.io/ido5G85nya/theme/light/id8qc6z_TX.svg?c=1dxbfHSJFAPEGdCLU4o5B" width="28" height="28" alt="Instagram" />
 </a>
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.varu_nesh._/)
 
