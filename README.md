@@ -119,7 +119,7 @@ const varunesh = {
     </td>
     <td align="center" width="25%">
       <a href="https://www.hackerrank.com/profile/varunesharasu" target="_blank">
-        <img src="https://cdn.brandfetch.io/id6yVQlyB1/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" width="100" height="100" alt="HackerRank" />
+        <img src="https://img.icons8.com/?size=100&id=OUPsEPLKIebZ&format=png&color=000000" width="100" height="100" alt="HackerRank" />
       </a>
       <br><strong>HackerRank</strong>
     </td>
