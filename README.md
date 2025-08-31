@@ -111,6 +111,12 @@ const varunesh = {
       </a>
       <br><strong>Portfolio</strong>
     </td>
+    <td align="center" width="25%">
+      <a href="https://leetcode.com/u/varunesht/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="100" height="100" alt="LeetCode" />
+      </a>
+      <br><strong>LeetCode</strong>
+    </td>
   </tr>
 </table>
 
