@@ -129,50 +129,9 @@ const varunesh = {
 
 ## 💡 LeetCode Stats
 
-<div align="center">
-  <table width="400" style="border-radius:12px;border:1px solid #222;background:#181A20;padding:24px 0;">
-    <tr>
-      <td align="center" colspan="2">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="32" height="32" alt="LeetCode" />
-        <span style="font-size:1.5em;font-weight:bold;color:#FFD700;">varunesht</span>
-        <span style="color:#aaa;font-size:1em;">#722201</span>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="120">
-        <!-- Simulated circular solved count -->
-        <div style="display:inline-block;width:80px;height:80px;border-radius:50%;border:8px solid #444;position:relative;">
-          <span style="font-size:2em;font-weight:bold;line-height:80px;color:#FFD700;">183</span>
-        </div>
-      </td>
-      <td align="left" style="vertical-align:top;">
-        <div style="margin-bottom:8px;">
-          <b style="color:#fff;">Easy</b>
-          <span style="color:#fff;">99 / 894</span>
-          <div style="background:#222;height:6px;border-radius:3px;">
-            <div style="background:#4caf50;width:11%;height:6px;border-radius:3px;"></div>
-          </div>
-        </div>
-        <div style="margin-bottom:8px;">
-          <b style="color:#fff;">Medium</b>
-          <span style="color:#fff;">64 / 1909</span>
-          <div style="background:#222;height:6px;border-radius:3px;">
-            <div style="background:#ffc107;width:3%;height:6px;border-radius:3px;"></div>
-          </div>
-        </div>
-        <div>
-          <b style="color:#fff;">Hard</b>
-          <span style="color:#fff;">20 / 864</span>
-          <div style="background:#222;height:6px;border-radius:3px;">
-            <div style="background:#f44336;width:2%;height:6px;border-radius:3px;"></div>
-          </div>
-        </div>
-      </td>
-    </tr>
-  </table>
-  <br>
-  <a href="https://leetcode.com/u/varunesht/" target="_blank">View my LeetCode profile</a>
-</div>
+### <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="20" /> LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/varunesht?theme=dark&font=Source%20Sans%203)
 
 ---
 
@@ -418,6 +377,47 @@ const varunesh = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=varunesharasu&theme=tokyo-night" width="100%"/>
 </div>
 
+---
+
+## 📈 Contribution Stats
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=varunesharasu&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</div>
+
+---
+
+## 💭 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+---
+
+## 🎨 Contribution Heatmap
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Animated Contribution Graph" width="100%"/>
+</div>
+
+---
+
+<div align="center">
+  
+### 🤝 Let's Build Something Amazing Together!
+
+<img src="https://komarev.com/ghpvc/?username=varunesharasu&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+
+**"Code is like humor. When you have to explain it, it's bad." – Cory House**
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
+
+<sub>💙 Made with love and lots of ☕ by Varunesh</sub>
 ---
 
 ## 📈 Contribution Stats
