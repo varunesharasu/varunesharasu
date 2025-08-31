@@ -127,6 +127,22 @@ const varunesh = {
 
 ---
 
+## 💡 LeetCode Stats
+
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40" alt="LeetCode" />
+  <br>
+  <strong>varunesht</strong>
+  <br>
+  <b>Total Solved:</b> 183
+  <br>
+  <b>Easy:</b> 99 / 894 &nbsp; | &nbsp; <b>Medium:</b> 64 / 1909 &nbsp; | &nbsp; <b>Hard:</b> 20 / 864
+  <br>
+  <a href="https://leetcode.com/u/varunesht/" target="_blank">View my LeetCode profile</a>
+</div>
+
+---
+
 ## 🛠️ Tech Arsenal
 
 <!-- <div align="center">
