@@ -141,7 +141,7 @@ const varunesh = {
 </div>
 
 ---
-
+<!-- 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 💡 LeetCode Stats
@@ -157,7 +157,7 @@ const varunesh = {
   <img src="https://leetcard.jacoblin.cool/varunesht?theme=dark&font=Source%20Sans%203&ext=heatmap" alt="LeetCode Stats" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(0, 247, 255, 0.3);" />
 </div>
 
----
+--- -->
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
