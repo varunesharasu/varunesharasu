@@ -6,11 +6,23 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20Profile!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 </div>
 
+<br/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=varunesharasu&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/varunesharasu?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/varunesharasu?label=Stars&style=for-the-badge&color=yellow" alt="Stars" />
+</p>
+
 ---
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+  <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+</picture>
 
 ```typescript
 const varunesh = {
@@ -38,48 +50,48 @@ const varunesh = {
 
 ---
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 ## 🎯 Current Focus
 
-<!-- <div align="center">
-  
-| 🔭 Working On | 👯 Collaborating | 🤝 Seeking Help | 🌱 Learning |
-|:---:|:---:|:---:|:---:|
-| **Portfolio Website** | **Full-Stack Projects** | **UI/UX Design** | **AWS Cloud** |
-| Building something awesome! | Let's create together! | Making it beautiful! | Cloud mastery! |
-
-</div> -->
 ### 🔥 What I'm Up To
+
+<div align="center">
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="25%" style="border: 2px solid #00F7FF; border-radius: 10px; padding: 20px;">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-<br><strong>🔭 Building</strong>
-<br>Portfolio Website
-<br>Full-Stack Apps
+<br><br><strong style="font-size: 18px;">🔭 Building</strong>
+<br><span style="color: #888;">Portfolio Website</span>
+<br><span style="color: #888;">Full-Stack Apps</span>
 </td>
-<td align="center" width="25%">
+<td align="center" width="25%" style="border: 2px solid #00F7FF; border-radius: 10px; padding: 20px;">
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-<br><strong>👯 Collaborating</strong>
-<br>Open Source Projects
-<br>Team Development
+<br><br><strong style="font-size: 18px;">👯 Collaborating</strong>
+<br><span style="color: #888;">Open Source Projects</span>
+<br><span style="color: #888;">Team Development</span>
 </td>
-<td align="center" width="25%">
+<td align="center" width="25%" style="border: 2px solid #00F7FF; border-radius: 10px; padding: 20px;">
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-<br><strong>🌱 Learning</strong>
-<br>AWS Cloud
-<br>Machine Learning
+<br><br><strong style="font-size: 18px;">🌱 Learning</strong>
+<br><span style="color: #888;">AWS Cloud</span>
+<br><span style="color: #888;">Machine Learning</span>
 </td>
-<td align="center" width="25%">
+<td align="center" width="25%" style="border: 2px solid #00F7FF; border-radius: 10px; padding: 20px;">
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-<br><strong>🤝 Seeking</strong>
-<br>UI/UX Feedback
-<br>Mentorship
+<br><br><strong style="font-size: 18px;">🤝 Seeking</strong>
+<br><span style="color: #888;">UI/UX Feedback</span>
+<br><span style="color: #888;">Mentorship</span>
 </td>
 </tr>
 </table>
 
+</div>
+
 ---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🌐 Let's Connect!
 
@@ -87,61 +99,71 @@ const varunesh = {
 
 <table>
   <tr>
-    <td align="center" width="25%">
+    <td align="center" width="16.66%">
       <a href="https://www.instagram.com/_.varu_nesh._/" target="_blank">
-        <img src="https://cdn.brandfetch.io/ido5G85nya/theme/light/id8qc6z_TX.svg?c=1dxbfHSJFAPEGdCLU4o5B" width="100" height="100" alt="Instagram" />
+        <img src="https://cdn.brandfetch.io/ido5G85nya/theme/light/id8qc6z_TX.svg?c=1dxbfHSJFAPEGdCLU4o5B" width="100" height="100" alt="Instagram" style="border-radius: 15px; transition: transform 0.3s ease;" />
       </a>
-      <br><strong>Instagram</strong>
+      <br><br><strong>Instagram</strong>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="16.66%">
       <a href="https://www.linkedin.com/in/varunesht/" target="_blank">
-        <img src="https://cdn.brandfetch.io/idJFz6sAsl/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" width="100" height="100" alt="LinkedIn" />
+        <img src="https://cdn.brandfetch.io/idJFz6sAsl/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" width="100" height="100" alt="LinkedIn" style="border-radius: 15px; transition: transform 0.3s ease;" />
       </a>
-      <br><strong>LinkedIn</strong>
+      <br><br><strong>LinkedIn</strong>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="16.66%">
       <a href="mailto:tvarunesharasu@gmail.com" target="_blank">
-        <img src="https://cdn.brandfetch.io/id5o3EIREg/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1696475443284" width="100" height="100" alt="Gmail" />
+        <img src="https://cdn.brandfetch.io/id5o3EIREg/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1696475443284" width="100" height="100" alt="Gmail" style="border-radius: 15px; transition: transform 0.3s ease;" />
       </a>
-      <br><strong>Gmail</strong>
+      <br><br><strong>Gmail</strong>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="16.66%">
       <a href="https://varunesh-portfolio.vercel.app/" target="_blank">
-        <img src="https://cdn.brandfetch.io/id8LeMTX5r/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1696085448760" width="100" height="100" alt="Portfolio" />
+        <img src="https://cdn.brandfetch.io/id8LeMTX5r/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1696085448760" width="100" height="100" alt="Portfolio" style="border-radius: 15px; transition: transform 0.3s ease;" />
       </a>
-      <br><strong>Portfolio</strong>
+      <br><br><strong>Portfolio</strong>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="16.66%">
       <a href="https://leetcode.com/u/varunesht/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="100" height="100" alt="LeetCode" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="100" height="100" alt="LeetCode" style="border-radius: 15px; transition: transform 0.3s ease;" />
       </a>
-      <br><strong>LeetCode</strong>
+      <br><br><strong>LeetCode</strong>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="16.66%">
       <a href="https://www.hackerrank.com/profile/varunesharasu" target="_blank">
-        <img src="https://img.icons8.com/?size=100&id=OUPsEPLKIebZ&format=png&color=000000" width="100" height="100" alt="HackerRank" />
+        <img src="https://img.icons8.com/?size=100&id=OUPsEPLKIebZ&format=png&color=000000" width="100" height="100" alt="HackerRank" style="border-radius: 15px; transition: transform 0.3s ease;" />
       </a>
-      <br><strong>HackerRank</strong>
+      <br><br><strong>HackerRank</strong>
     </td>
   </tr>
 </table>
-
-<!-- Simple hover effect for icons: On hover, icons scale up and rotate slightly with a blue shadow. 
-     (Note: GitHub Markdown does not support inline CSS. For custom styling, use an external site or README profile generator.) -->
 
 </div>
 
 ---
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 ## 💡 LeetCode Stats
 
-### <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="20" /> LeetCode Stats
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/varunesht?theme=dark&font=Source%20Sans%203)
+<div align="center">
+  <h3>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="30" /> 
+    <span style="background: linear-gradient(90deg, #00F7FF 0%, #0080FF 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">LeetCode Journey</span>
+  </h3>
+  
+  <br/>
+  
+  <img src="https://leetcard.jacoblin.cool/varunesht?theme=dark&font=Source%20Sans%203&ext=heatmap" alt="LeetCode Stats" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(0, 247, 255, 0.3);" />
+</div>
 
 ---
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 ## 🛠️ Tech Arsenal
+
+<br/>
 
 <!-- <div align="center">
   
@@ -358,29 +380,37 @@ const varunesh = {
 
 </div>
 
-<!-- <div align="center">
-  
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-</div> -->
-
----
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=varunesharasu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunesharasu&layout=compact&langs_count=8&theme=tokyonight"/>
+  
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=varunesharasu&show_icons=true&count_private=true&hide_border=true&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9&bg_color=0d1117" alt="Varunesh GitHub Stats" /> 
+
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunesharasu&layout=compact&hide_border=true&title_color=00F7FF&text_color=c9d1d9&bg_color=0d1117" />
+
 </div>
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=varunesharasu&theme=tokyonight" alt="GitHub Streak" />
-  </a>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varunesharasu&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" alt="GitHub Streak" style="border-radius: 10px;" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=varunesharasu&theme=tokyo-night" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=varunesharasu&custom_title=Varunesh's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area_color=0D1117&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=varunesharasu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%" alt="Trophy" />
 </div>
 
 ---
@@ -396,10 +426,14 @@ const varunesh = {
 ## 💭 Random Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&border_color=00F7FF" alt="Random Dev Quote" style="border-radius: 10px;" />
+
 </div>
 
 ---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🎨 Contribution Heatmap
 
@@ -411,17 +445,28 @@ const varunesh = {
 
 <div align="center">
   
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
 ### 🤝 Let's Build Something Amazing Together!
 
-<img src="https://komarev.com/ghpvc/?username=varunesharasu&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+<br/>
 
-**"Code is like humor. When you have to explain it, it's bad." – Cory House**
+**💬 "Code is like humor. When you have to explain it, it's bad." – Cory House**
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<br/>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+
+<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+<br/><br/>
+
+</div>
 
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
 
-<sub>💙 Made with love and lots of ☕ by Varunesh</sub>
----
+<div align="center">
+  <sub>💙 Made with love and lots of ☕ by Varunesh</sub>
+</div>
