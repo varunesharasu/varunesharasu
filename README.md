@@ -62,27 +62,27 @@ const varunesh = {
 <tr>
 <td align="center" width="25%" style="border: 2px solid #00F7FF; border-radius: 10px; padding: 20px;">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-<br><br><strong style="font-size: 18px;">🔭 Building</strong>
-<br><span style="color: #888;">Portfolio Website</span>
-<br><span style="color: #888;">Full-Stack Apps</span>
+<br><br><strong>🔭 Building</strong>
+<br><span>Portfolio Website</span>
+<br><span>Full-Stack Apps</span>
 </td>
 <td align="center" width="25%" style="border: 2px solid #00F7FF; border-radius: 10px; padding: 20px;">
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-<br><br><strong style="font-size: 18px;">👯 Collaborating</strong>
-<br><span style="color: #888;">Open Source Projects</span>
-<br><span style="color: #888;">Team Development</span>
+<br><br><strong>👯 Collaborating</strong>
+<br><span>Open Source Projects</span>
+<br><span>Team Development</span>
 </td>
 <td align="center" width="25%" style="border: 2px solid #00F7FF; border-radius: 10px; padding: 20px;">
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-<br><br><strong style="font-size: 18px;">🌱 Learning</strong>
-<br><span style="color: #888;">AWS Cloud</span>
-<br><span style="color: #888;">Machine Learning</span>
+<br><br><strong>🌱 Learning</strong>
+<br><span>AWS Cloud</span>
+<br><span>Machine Learning</span>
 </td>
 <td align="center" width="25%" style="border: 2px solid #00F7FF; border-radius: 10px; padding: 20px;">
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-<br><br><strong style="font-size: 18px;">🤝 Seeking</strong>
-<br><span style="color: #888;">UI/UX Feedback</span>
-<br><span style="color: #888;">Mentorship</span>
+<br><br><strong>🤝 Seeking</strong>
+<br><span>UI/UX Feedback</span>
+<br><span>Mentorship</span>
 </td>
 </tr>
 </table>
@@ -101,37 +101,37 @@ const varunesh = {
   <tr>
     <td align="center" width="16.66%">
       <a href="https://www.instagram.com/_.varu_nesh._/" target="_blank">
-        <img src="https://cdn.brandfetch.io/ido5G85nya/theme/light/id8qc6z_TX.svg?c=1dxbfHSJFAPEGdCLU4o5B" width="100" height="100" alt="Instagram" style="border-radius: 15px; transition: transform 0.3s ease;" />
+        <img src="https://img.icons8.com/color/96/000000/instagram-new.png" width="100" height="100" alt="Instagram" style="border-radius: 15px;" />
       </a>
       <br><br><strong>Instagram</strong>
     </td>
     <td align="center" width="16.66%">
       <a href="https://www.linkedin.com/in/varunesht/" target="_blank">
-        <img src="https://cdn.brandfetch.io/idJFz6sAsl/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" width="100" height="100" alt="LinkedIn" style="border-radius: 15px; transition: transform 0.3s ease;" />
+        <img src="https://img.icons8.com/color/96/000000/linkedin.png" width="100" height="100" alt="LinkedIn" style="border-radius: 15px;" />
       </a>
       <br><br><strong>LinkedIn</strong>
     </td>
     <td align="center" width="16.66%">
       <a href="mailto:tvarunesharasu@gmail.com" target="_blank">
-        <img src="https://cdn.brandfetch.io/id5o3EIREg/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1696475443284" width="100" height="100" alt="Gmail" style="border-radius: 15px; transition: transform 0.3s ease;" />
+        <img src="https://img.icons8.com/color/96/000000/gmail-new.png" width="100" height="100" alt="Gmail" style="border-radius: 15px;" />
       </a>
       <br><br><strong>Gmail</strong>
     </td>
     <td align="center" width="16.66%">
       <a href="https://varunesh-portfolio.vercel.app/" target="_blank">
-        <img src="https://cdn.brandfetch.io/id8LeMTX5r/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1696085448760" width="100" height="100" alt="Portfolio" style="border-radius: 15px; transition: transform 0.3s ease;" />
+        <img src="https://img.icons8.com/color/96/000000/globe.png" width="100" height="100" alt="Portfolio" style="border-radius: 15px;" />
       </a>
       <br><br><strong>Portfolio</strong>
     </td>
     <td align="center" width="16.66%">
       <a href="https://leetcode.com/u/varunesht/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="100" height="100" alt="LeetCode" style="border-radius: 15px; transition: transform 0.3s ease;" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="100" height="100" alt="LeetCode" style="border-radius: 15px;" />
       </a>
       <br><br><strong>LeetCode</strong>
     </td>
     <td align="center" width="16.66%">
       <a href="https://www.hackerrank.com/profile/varunesharasu" target="_blank">
-        <img src="https://img.icons8.com/?size=100&id=OUPsEPLKIebZ&format=png&color=000000" width="100" height="100" alt="HackerRank" style="border-radius: 15px; transition: transform 0.3s ease;" />
+        <img src="https://img.icons8.com/external-such-such-flat-such-such/96/000000/external-HackerRank-social-media-apps-and-platforms-such-such-flat-such-such.png" width="100" height="100" alt="HackerRank" style="border-radius: 15px;" />
       </a>
       <br><br><strong>HackerRank</strong>
     </td>
@@ -141,35 +141,12 @@ const varunesh = {
 </div>
 
 ---
-<!-- 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 💡 LeetCode Stats
-
-<div align="center">
-  <h3>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="30" /> 
-    <span style="background: linear-gradient(90deg, #00F7FF 0%, #0080FF 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">LeetCode Journey</span>
-  </h3>
-  
-  <br/>
-  
-  <img src="https://leetcard.jacoblin.cool/varunesht?theme=dark&font=Source%20Sans%203&ext=heatmap" alt="LeetCode Stats" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(0, 247, 255, 0.3);" />
-</div>
-
---- -->
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🛠️ Tech Arsenal
 
 <br/>
-
-<!-- <div align="center">
-  
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
-
-</div> -->
 
 ### <div align="center">🎨 **Frontend Development** 🎨</div>
 
@@ -283,7 +260,7 @@ const varunesh = {
 <br><strong>Netlify</strong>
 </td>
 <td align="center" width="96">
-<img src="https://cdn.brandfetch.io/id8LeMTX5r/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1696085448760" width="65" height="65" alt="Render" />
+<img src="https://img.icons8.com/color/96/000000/render.png" width="65" height="65" alt="Render" />
 <br><strong>Render</strong>
 </td>
 </tr>
@@ -310,7 +287,7 @@ const varunesh = {
 <br><strong>Illustrator</strong>
 </td>
 <td align="center" width="96">
-<img src="https://cdn.brandfetch.io/id9mVQlyB1/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" width="65" height="65" alt="Canva" />
+<img src="https://img.icons8.com/color/96/000000/canva.png" width="65" height="65" alt="Canva" />
 <br><strong>Canva</strong>
 </td>
 </tr>
