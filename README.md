@@ -392,13 +392,13 @@ const varunesh = {
 
 ---
 
-## 📈 Contribution Stats
+<!-- ## 📈 Contribution Stats
 
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=varunesharasu&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 </div>
 
----
+--- -->
 
 ## 💭 Random Dev Quote
 
